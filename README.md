@@ -22,6 +22,6 @@ Please watch our project video for a comprehensive overview and demonstration of
 
 For detailed documentation regarding our project, and technical details, please refer to the following document:
 
-[Project Documentation](./src/project_report.pdf)
+[Project Documentation](./src/project_report_final.pdf)
 
 Thank you for your interest in our class project! If you have any questions or feedback, feel free to reach out to us.
